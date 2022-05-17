@@ -177,6 +177,11 @@ main {
 Countdown Timer
 ===============
 */
+.section-center {
+  width: 90vw;
+  margin: 5rem auto;
+  max-width: 1170px;
+}
 .gift-img {
   margin-bottom: 2rem;
 }
